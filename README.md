@@ -1,1 +1,1 @@
-This is a code which i have learnt from doing.
+These are the codes which i have learnt from doing.
